@@ -13,9 +13,17 @@ footer {
     .f1 {
         @include flex (column, center, center, f1);
         margin-left: 10px;
+        a {
+            text-decoration: none;
+            color: white;
+        }
     }
     .f2 {
-        @include flex (column, center, center, f2)
+        @include flex (column, center, center, f2);
+        a {
+            text-decoration: none;
+            color: white;
+        }
     }
     .f3 {
         @include flex (none, center, center, f3);

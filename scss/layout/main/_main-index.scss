@@ -81,6 +81,48 @@ main {
     display: grid;
     grid-area: mf10;
 }
+
+.mf1:hover {
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf2:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf3:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf4:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf5:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf6:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf7:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf8:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf9:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+.mf10:hover{
+    transform: scale(1.1);
+    transition: 45ms;
+}
+
 .banner {
     background-color: $colour3transparent;
     display: flex;
