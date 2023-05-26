@@ -1,22 +1,31 @@
 @media (max-width: 375px) {
     
-    header {img {
+    header {
+        img {
         width: 80px;} }
     
     nav {ol {
-        font-size: 15px;
-        margin-left: 2px;} }
+        font-size: 14px;
+        margin-left: 8px;
+            a {
+                padding-left: 60px;
+                padding-right: 60px;
+            }} }
     
     .main-fotos{
-            margin-left: -380px;
+            margin-left: -360px;
             img {
-                width: 100px;}}
+                width: 70px;}}
     
     .banner img{
-        width: 100px}
+        width: 70px}
     
     footer {
-        font-size: 15px;}
+        font-size: 14px;}
+
+    .abcd { 
+        gap: 6px;
+    }
     
     .form-contacto {
         .form-name {

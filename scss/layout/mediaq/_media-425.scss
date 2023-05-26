@@ -11,11 +11,11 @@
 
     nav {
         ol {
-            font-size: 17px;
+            font-size: 16px;
             display: flex;
             flex-direction: row;
             justify-content: center;
-            margin-left: 5px;
+            margin-left: 10px;
         li { a{line-height: 20px;
             padding-right: 10px;
             padding-left: 10px;}
@@ -51,7 +51,7 @@
                         margin-left: -300px;
                         margin-top: 180px;
                         img {
-                            width: 90px;}
+                            width: 80px;}
                             .mf1 {
                                 display: none;
                             }
@@ -100,7 +100,8 @@
                     }
         .abcd {
             font-size: 15px;
-            gap: 5px;
+            padding: 5px;
+            gap: 8px;
             margin-top: 10%;}
             
         .productos{
